@@ -36,19 +36,19 @@ const Index = () => {
 
   const portfolio = [
     {
-      image: 'https://cdn.poehali.dev/projects/e006e3e9-1639-4dc3-82f5-37827defe12d/files/eec45597-1766-42d4-983a-2f3591c39361.jpg',
+      image: 'https://cdn.poehali.dev/files/51e14c55-7e9f-4a19-899e-90f6366b9ec2.jpg',
       title: 'Классический интерьер',
       category: 'Интерьер'
     },
     {
-      image: 'https://cdn.poehali.dev/projects/e006e3e9-1639-4dc3-82f5-37827defe12d/files/b880c56d-e7c4-44af-91b1-28522f2f290f.jpg',
-      title: 'Фасадный декор',
-      category: 'Фасад'
+      image: 'https://cdn.poehali.dev/files/80cac641-e1f7-442d-ae1f-92d6a803fd40.jpg',
+      title: 'Лепной декор потолка',
+      category: 'Интерьер'
     },
     {
-      image: 'https://cdn.poehali.dev/projects/e006e3e9-1639-4dc3-82f5-37827defe12d/files/f3c14786-9eb5-4d70-b8ca-8903d7f802a6.jpg',
-      title: 'Реставрация',
-      category: 'Реставрация'
+      image: 'https://cdn.poehali.dev/files/255a0e7b-87ba-4ce7-a2e4-60b9740168ae.jpg',
+      title: '3D-панели',
+      category: 'Монтаж'
     }
   ];
 
@@ -114,7 +114,7 @@ const Index = () => {
             <div className="relative animate-scale-in">
               <div className="absolute -top-4 -left-4 w-full h-full border-2 border-primary/20 rounded-lg"></div>
               <img
-                src="https://cdn.poehali.dev/projects/e006e3e9-1639-4dc3-82f5-37827defe12d/files/eec45597-1766-42d4-983a-2f3591c39361.jpg"
+                src="https://cdn.poehali.dev/files/51e14c55-7e9f-4a19-899e-90f6366b9ec2.jpg"
                 alt="Лепной декор"
                 className="relative rounded-lg shadow-2xl w-full h-[500px] object-cover"
               />
@@ -215,7 +215,7 @@ const Index = () => {
             </div>
             <div className="relative">
               <img
-                src="https://cdn.poehali.dev/projects/e006e3e9-1639-4dc3-82f5-37827defe12d/files/f3c14786-9eb5-4d70-b8ca-8903d7f802a6.jpg"
+                src="https://cdn.poehali.dev/files/255a0e7b-87ba-4ce7-a2e4-60b9740168ae.jpg"
                 alt="Работа мастера"
                 className="rounded-lg shadow-2xl w-full h-[500px] object-cover"
               />
