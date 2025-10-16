@@ -297,21 +297,21 @@ const Index = () => {
                     <Icon name="Phone" className="text-primary mt-1" size={20} />
                     <div>
                       <h4 className="font-semibold mb-1">Телефон</h4>
-                      <p className="text-muted-foreground">+7 (999) 123-45-67</p>
+                      <a href="tel:+79602793492" className="text-muted-foreground hover:text-primary transition-colors">+7 (960) 279-34-92</a>
                     </div>
                   </div>
                   <div className="flex items-start gap-4">
                     <Icon name="Mail" className="text-primary mt-1" size={20} />
                     <div>
                       <h4 className="font-semibold mb-1">Email</h4>
-                      <p className="text-muted-foreground">info@vuriey.studio</p>
+                      <a href="mailto:art-studio-dale@yandex.ru" className="text-muted-foreground hover:text-primary transition-colors break-all">art-studio-dale@yandex.ru</a>
                     </div>
                   </div>
                   <div className="flex items-start gap-4">
-                    <Icon name="MapPin" className="text-primary mt-1" size={20} />
+                    <Icon name="User" className="text-primary mt-1" size={20} />
                     <div>
-                      <h4 className="font-semibold mb-1">Адрес</h4>
-                      <p className="text-muted-foreground">г. Москва, ул. Примерная, д. 1</p>
+                      <h4 className="font-semibold mb-1">Контактное лицо</h4>
+                      <p className="text-muted-foreground">Висчинский Сергей</p>
                     </div>
                   </div>
                 </div>
