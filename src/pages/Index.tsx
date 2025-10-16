@@ -49,6 +49,31 @@ const Index = () => {
       image: 'https://cdn.poehali.dev/files/255a0e7b-87ba-4ce7-a2e4-60b9740168ae.jpg',
       title: '3D-панели',
       category: 'Монтаж'
+    },
+    {
+      image: 'https://cdn.poehali.dev/files/4c37c9f1-fb16-462d-a9d5-33c8b5fd024d.jpg',
+      title: 'Кессонные потолки',
+      category: 'Интерьер'
+    },
+    {
+      image: 'https://cdn.poehali.dev/files/4a42cab0-cc3d-4350-862c-a5c65631a3cb.jpg',
+      title: 'Изготовление элементов',
+      category: 'Производство'
+    },
+    {
+      image: 'https://cdn.poehali.dev/files/4acfe737-f084-404f-9cf2-10c330be2675.jpg',
+      title: 'Волновые 3D-панели',
+      category: 'Монтаж'
+    },
+    {
+      image: 'https://cdn.poehali.dev/files/5174b67e-e0f1-4053-9ed8-dad2924b1963.jpg',
+      title: 'Монтаж декоративных рам',
+      category: 'Монтаж'
+    },
+    {
+      image: 'https://cdn.poehali.dev/files/aff39151-4d9b-49ea-9210-a0f762117257.jpg',
+      title: 'Потолочные розетки',
+      category: 'Интерьер'
     }
   ];
 
