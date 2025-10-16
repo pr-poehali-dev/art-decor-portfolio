@@ -96,9 +96,9 @@ const Index = () => {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-2">
               <div className="w-8 h-8 bg-primary rounded-full flex items-center justify-center">
-                <span className="text-primary-foreground font-bold text-sm">ВС</span>
+                <span className="text-primary-foreground font-bold text-sm">ДЛ</span>
               </div>
-              <h1 className="text-xl font-semibold">Вуриеи Студиа</h1>
+              <h1 className="text-xl font-semibold">Арт-Студия ДаЛе</h1>
             </div>
             <div className="hidden md:flex gap-8">
               {['Главная', 'Портфолио', 'Услуги', 'О студии', 'Контакты'].map((item) => (
@@ -128,6 +128,9 @@ const Index = () => {
               <h2 className="text-5xl lg:text-6xl font-bold leading-tight">
                 Искусство лепного декора
               </h2>
+              <p className="text-3xl font-semibold text-primary">
+                Арт-Студия ДаЛе
+              </p>
               <p className="text-lg text-muted-foreground leading-relaxed">
                 Создаем утонченные интерьеры и фасады с изысканной лепниной. 
                 Монтаж, реставрация и индивидуальные эскизы от профессионалов.
@@ -341,7 +344,7 @@ const Index = () => {
         <div className="container mx-auto">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-sm text-muted-foreground">
-              © 2024 Вуриеи Студиа. Все права защищены.
+              © 2024 Арт-Студия ДаЛе. Все права защищены.
             </p>
             <div className="flex gap-4">
               <Button variant="ghost" size="sm">
