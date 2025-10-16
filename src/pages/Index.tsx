@@ -233,7 +233,7 @@ const Index = () => {
                 <div className="flex items-start gap-4">
                   <Icon name="Check" className="text-primary mt-1" size={20} />
                   <div>
-                    <h4 className="font-semibold mb-1">300+ проектов</h4>
+                    <h4 className="font-semibold mb-1">150+ проектов</h4>
                     <p className="text-muted-foreground">Реализованных интерьеров и фасадов</p>
                   </div>
                 </div>
@@ -241,7 +241,7 @@ const Index = () => {
                   <Icon name="Check" className="text-primary mt-1" size={20} />
                   <div>
                     <h4 className="font-semibold mb-1">Индивидуальный подход</h4>
-                    <p className="text-muted-foreground">Разработка уникальных эскизов</p>
+                    <p className="text-muted-foreground">Изготовление эксклюзивных элементов по эскизам, модельные работы</p>
                   </div>
                 </div>
               </div>
