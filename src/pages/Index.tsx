@@ -74,6 +74,11 @@ const Index = () => {
       image: 'https://cdn.poehali.dev/files/aff39151-4d9b-49ea-9210-a0f762117257.jpg',
       title: 'Потолочные розетки',
       category: 'Интерьер'
+    },
+    {
+      image: 'https://cdn.poehali.dev/files/ebbda868-6f81-4a10-969e-2e79071be5f8.jpg',
+      title: 'Гипсовая лепнина на потолке',
+      category: 'Интерьер'
     }
   ];
 
