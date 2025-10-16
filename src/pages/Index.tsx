@@ -347,14 +347,15 @@ const Index = () => {
               © 2024 Арт-Студия ДаЛе. Все права защищены.
             </p>
             <div className="flex gap-4">
-              <Button variant="ghost" size="sm">
-                <Icon name="Instagram" size={18} />
+              <Button variant="ghost" size="sm" asChild>
+                <a href="https://instagram.com/decor-dale" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+                  <Icon name="Instagram" size={18} />
+                </a>
               </Button>
-              <Button variant="ghost" size="sm">
-                <Icon name="Facebook" size={18} />
-              </Button>
-              <Button variant="ghost" size="sm">
-                <Icon name="Phone" size={18} />
+              <Button variant="ghost" size="sm" asChild>
+                <a href="tel:+79602793492" aria-label="Позвонить">
+                  <Icon name="Phone" size={18} />
+                </a>
               </Button>
             </div>
           </div>
